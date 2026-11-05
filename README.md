@@ -2,7 +2,7 @@
 
 **Design a patchwork block, see it as a whole quilt, and get the cutting list and fabric shopping list worked out for you.**
 
-![Quilt Studio](screenshot.png)
+![Quilt Studio](screenshot.jpeg)
 
 Quilt Studio is a small, friendly program for quilters. You colour in a block patch by patch, or start from a classic. You then see it repeated across a whole quilt with sashing, cornerstones, a border and binding. When you're happy, it tells you exactly what to cut and how much of each fabric to buy.
 
