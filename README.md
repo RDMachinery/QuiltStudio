@@ -8,6 +8,8 @@ Quilt Studio is a small, friendly program for quilters. You colour in a block pa
 
 ---
 
+![Quilt Layout](quilt-layout.png)
+
 ## What it does
 
 ### Design a block
